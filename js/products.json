@@ -62,5 +62,13 @@
 		"weight": 400,
 		"price": 30,
 		"imgSrc": "youugurt.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Сир Барон",
+		"itemsInBox": 1,
+		"weight": 1000,
+		"price": 250,
+		"imgSrc": "baron.jpg"
 	}
 ]
